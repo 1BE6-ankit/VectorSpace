@@ -1,0 +1,25 @@
+#evaluate {
+    margin-top: 3px;
+}
+
+h3 {
+    margin: auto;
+}
+
+#main-box {
+    margin-top: 5px;
+}
+
+input {
+    width: 3em;
+    text-align: center;
+}
+
+.makeRed {
+    color: red;
+}
+
+.result-div:hover {
+    background-color: rgb(245, 245, 245);
+    cursor: no-drop;
+}
